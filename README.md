@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 <img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
+<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+
+
+
 <!--
 **jjiwon0515/jjiwon0515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
